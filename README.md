@@ -6,15 +6,15 @@ I was working with Hackintosh since OS X 10.8 Mountain Lion with many computers.
 https://raw.githubusercontent.com/almodroid/Dell-vostro-5471-hackintosh/main/Screenshot2.png
 
 What is working : 
-1-
-2-
-3-
-4-
-5-
-6-
-7-
-8-
-9-
+1- full Graphics
+2- Audio
+3- USB mapping and functionality
+4- Type c
+5- Trackpad + keyboard (using voodoo ps2 and i2c with xosi patch and ssdt)
+6- keyboard remapping with fix for brightness keys and prtscr
+7- webcam
+8- Bluetooth (using brcmpatchram)
+9- Wifi (using aspm disable and Airportfixup)
 
 What is not working :
 None! until now
