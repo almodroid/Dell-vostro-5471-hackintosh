@@ -20,5 +20,5 @@ What is not working :
 None! until now
 
 credits: 
-Apple for the butifull System
-acanditha for Opencore bootloader 
+Apple for the beautiful System
+Acidanthera, Rehabman and Daliansky for thier hard work 
