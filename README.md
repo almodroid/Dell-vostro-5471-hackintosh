@@ -3,7 +3,7 @@ This repo will help you install Mac OS X for Dell vostro 5471 machine with some 
 here I will attache my EFI partition with continue updates (I hope😅)  
 I was working with Hackintosh since OS X 10.8 Mountain Lion with many computers.
 
-https://github.com/almodroid/Dell-vostro-5471-hackintosh/blob/main/Screenshot2.png
+https://raw.githubusercontent.com/almodroid/Dell-vostro-5471-hackintosh/main/Screenshot2.png
 
 What is working : 
 1-
