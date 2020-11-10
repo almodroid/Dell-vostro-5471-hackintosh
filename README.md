@@ -4,20 +4,21 @@ here I will attache my EFI partition with continue updates (I hope😅)
 I was working with Hackintosh since OS X 10.8 Mountain Lion with many computers.
 
 ![Screen shot for my system](https://raw.githubusercontent.com/almodroid/Dell-vostro-5471-hackintosh/main/Screenshot2.png)
-
+![Performance](https://github.com/almodroid/Dell-vostro-5471-hackintosh/blob/main/Screenshot1.png?raw=true)
 ## What is working :
- 1. Full Graphics
- 2. Audio
- 3. USB mapping and functionality
- 4. Type c
- 5. Trackpad + keyboard (using voodoo ps2 and i2c with Xosi patch and ssdt) 
- 6.  keyboard remapping with fix for brightness keys and prtscr (screenshot F13)
- 7.  webcam 
- 8. Bluetooth (using BrcmPatchRam) 
- 9. Wifi (using aspm disable and AirPortBrcmFixup)
- 10. HDMI audio and Edid scan and patch RGB using Hackintool app
- 11. Battery and sensors
- 12. 
+ 1. Full Graphics (with Disabling external Gpu)
+ 2. Cpu and Power mangment
+ 3. Audio
+ 4. USB mapping and functionality
+ 5. Type c
+ 6. Trackpad + keyboard (using voodoo ps2 and i2c with Xosi patch and ssdt) 
+ 7.  keyboard remapping with fix for brightness keys and prtscr (screenshot F13)
+ 8.  webcam 
+ 9. Bluetooth (using BrcmPatchRam) 
+ 10. Wifi (using aspm disable and AirPortBrcmFixup)
+ 11. HDMI audio and Edid scan and patch RGB using Hackintool app
+ 12. Battery and sensors
+ 13. Backlight
 
 ## What is not working 
 None! until now
