@@ -29,7 +29,7 @@ i include the latest Kext until ( 11 / 11 / 2020 )
 None! for now 
 
 in windows side :
-Windows brightness stop working if i use opencore i couldnt figure it out. \
+Windows brightness stop working if i use opencore i couldnt figure it out.\
 
 ## Install proccess :
 Just follow [opencore vanilla guide](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html)
