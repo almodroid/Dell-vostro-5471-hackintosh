@@ -41,7 +41,7 @@ from aliexpress for 7$.
  one important thing you need to do is disable aspm using device section ( at opencore config.plist already did it)
  *no need to cover any pins or any kind of hardware fix **only software**.
 
-I found somewhere that the original intel card for this device can be patched to work under Mac OS X ( not sure )
+I found somewhere that the original intel (wifi/bluetooth) card for this device can be patched to work under Mac OS X ( not sure )
 
 2. for USB and EC
  
