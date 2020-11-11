@@ -41,7 +41,7 @@ I found somewhere that the original intel card for this device can be patched to
  
 **Credits:** 
 Apple for the beautiful System.\
-[Acidanthera](https://github.com/acidanthera), [Rehabman](https://github.com/RehabMan) and [Daliansky](https://github.com/daliansky) for thier hard work . \
+[Acidanthera](https://github.com/acidanthera), [Rehabman](https://github.com/RehabMan) and [Daliansky](https://github.com/daliansky) for thier hard work.\
 
 I hope it will be helpful .\
 Good luck and thank you 👍.\
