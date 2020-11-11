@@ -4,7 +4,7 @@ here I will attache my EFI partition with continue updates (I hope😅)
 I was working with Hackintosh since OS X 10.8 Mountain Lion with many computers.
 
 ![Screen shot for my system](https://raw.githubusercontent.com/almodroid/Dell-vostro-5471-hackintosh/main/Screenshot2.png)
-![Performance](https://github.com/almodroid/Dell-vostro-5471-hackintosh/blob/main/Screenshot1.png?raw=true)
+![Performance](https://raw.githubusercontent.com/almodroid/Dell-vostro-5471-hackintosh/main/Screenshot1.png)
 ## What is working :
  1. Full Graphics (with Disabling external Gpu)
  2. Cpu and Power mangment
@@ -31,12 +31,12 @@ from aliexpress for 7$.
    ![enter image description here](https://osxlatitude.com/uploads/monthly_2019_05/DW1820A_CN-08PKF4.jpg.2f57e855741f3797816a71423155cbde.jpg)
  
  one important thing you need to do is disable aspm using device section ( at opencore config.plist already did it)
- *no need to cover any pins or any kind of hardware fix **only software**
+ *no need to cover any pins or any kind of hardware fix **only software**.
  
 **Credits:** 
-Apple for the beautiful System 
+Apple for the beautiful System.
 [Acidanthera](https://github.com/acidanthera), [Rehabman](https://github.com/RehabMan) and [Daliansky](https://github.com/daliansky) for thier hard work . 
 
 I hope it will be helpful .
-Good luck and thank you 👍
+Good luck and thank you 👍.
 *Almodroid*
