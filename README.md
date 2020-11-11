@@ -21,8 +21,9 @@ i include the latest Kext until ( 11 / 11 / 2020 )
  10. Wifi (using aspm disable and AirPortBrcmFixup)
  11. HDMI audio with Edid scan and patch RGB using Hackintool app
  12. Battery and sensors
- 13. Backlight and ( Optionally: fake auto brightness sensor also )
- 14. 
+ 13. Backlight ( and Optionally: fake auto brightness sensor )
+ 14. Wake / sleep / lid / continuity / sidecar / Airdrop / imessage / appstore / icloud / Siri / dictation.
+ 15. 
 
 ## What is not working 
 None! for now 
