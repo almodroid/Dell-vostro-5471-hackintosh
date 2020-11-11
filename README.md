@@ -9,15 +9,15 @@ i include the latest Kext until ( 11 / 11 / 2020 )
 ![Screen shot for my system](https://raw.githubusercontent.com/almodroid/Dell-vostro-5471-hackintosh/main/Screenshot2.png)
 ![Performance](https://raw.githubusercontent.com/almodroid/Dell-vostro-5471-hackintosh/main/Screenshot1.png)
 ## What is working :
- 1. Full Graphics (with Disabling external Gpu)
- 2. Cpu and Power mangment
+ 1. Full Graphics (with Disabling external Gpu using ssdt)
+ 2. Cpu and Power mangment (ssdt and cpufriend)
  3. Audio
  4. USB mapping and functionality ( i dont use SdCard so i remove it from USBs )
  5. Type c
  6. Trackpad + keyboard (using voodoo ps2 and i2c with Xosi patch and ssdt) 
  7. keyboard remapping with fix for brightness keys and prtscr (screenshot F13)
  8. webcam 
- 9. Bluetooth (using BrcmPatchRam) 
+ 9. Full Bluetooth options (using BrcmPatchRam) 
  10. Wifi (using aspm disable and AirPortBrcmFixup)
  11. HDMI audio with Edid scan and patch RGB using Hackintool app
  12. Battery and sensors
