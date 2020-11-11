@@ -32,7 +32,7 @@ in windows side :
 Windows brightness stop working if i use opencore i couldnt figure it out. \
 
 ## Install proccess :
-Just follow [opencore vanilla guide](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html) \
+Just follow [opencore vanilla guide](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html)
 
 
 ## Some details :
