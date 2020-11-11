@@ -1,6 +1,7 @@
 ﻿# Overview
-This repo will help you install Mac OS X for Dell vostro 5471 machine with some modifications to get most benefit from the system  
-here I will attache my EFI partition with continue updates (I hope😅)  
+This repo will help you install Mac OS X for Dell vostro 5471 machine with some modifications using opencore to get most benefit from the system 
+I used clover until Catalina when Big sur released i convert to opencore.  
+I will attache my EFI partition with continue updates (I hope😅)  
 I was working with Hackintosh since OS X 10.8 Mountain Lion with many computers.\
 \
 i include the latest Kext until ( 11 / 11 / 2020 )
@@ -14,16 +15,20 @@ i include the latest Kext until ( 11 / 11 / 2020 )
  4. USB mapping and functionality
  5. Type c
  6. Trackpad + keyboard (using voodoo ps2 and i2c with Xosi patch and ssdt) 
- 7.  keyboard remapping with fix for brightness keys and prtscr (screenshot F13)
- 8.  webcam 
+ 7. keyboard remapping with fix for brightness keys and prtscr (screenshot F13)
+ 8. webcam 
  9. Bluetooth (using BrcmPatchRam) 
  10. Wifi (using aspm disable and AirPortBrcmFixup)
  11. HDMI audio and Edid scan and patch RGB using Hackintool app
  12. Battery and sensors
- 13. Backlight
+ 13. Backlight and ( Optionally: fake auto brightness sensor also )
+ 14. 
 
 ## What is not working 
-None! until now
+None! for now 
+
+in windows side :
+Windows brightness stop working if i use opencore i couldnt figure it out. 
 
 ## Some details :
 
