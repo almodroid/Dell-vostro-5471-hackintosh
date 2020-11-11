@@ -12,7 +12,7 @@ i include the latest Kext until ( 11 / 11 / 2020 )
  1. Full Graphics (with Disabling external Gpu)
  2. Cpu and Power mangment
  3. Audio
- 4. USB mapping and functionality
+ 4. USB mapping and functionality ( i dont use SdCard so i remove it from USBs )
  5. Type c
  6. Trackpad + keyboard (using voodoo ps2 and i2c with Xosi patch and ssdt) 
  7. keyboard remapping with fix for brightness keys and prtscr (screenshot F13)
