@@ -1,8 +1,8 @@
 ﻿# Overview
+Hello i'am almodroid I was working with Hackintosh since Mountain Lion with many computers, and would like to share with you\
 This repo will help you install Mac OS X for Dell vostro 5471 machine with some modifications using opencore to get most benefit from the system.\
-I used clover until Catalina when Big sur released i convert to opencore.  
-I will attache my EFI partition with continue updates (I hope😅)  
-I was working with Hackintosh since OS X 10.8 Mountain Lion with many computers.\
+I was using clover until Catalina, when Big sur released i convert to opencore I will attache my EFI partition with continue updates (I hope😅)  
+
 \
 i include the latest Kext until ( 11 / 11 / 2020 )
 
