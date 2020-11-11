@@ -19,7 +19,7 @@ i include the latest Kext until ( 11 / 11 / 2020 )
  8. webcam 
  9. Bluetooth (using BrcmPatchRam) 
  10. Wifi (using aspm disable and AirPortBrcmFixup)
- 11. HDMI audio and Edid scan and patch RGB using Hackintool app
+ 11. HDMI audio with Edid scan and patch RGB using Hackintool app
  12. Battery and sensors
  13. Backlight and ( Optionally: fake auto brightness sensor also )
  14. 
