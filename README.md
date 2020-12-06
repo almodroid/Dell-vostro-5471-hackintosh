@@ -47,8 +47,10 @@ from aliexpress for 7$.
 
 I found somewhere that the original intel (wifi/bluetooth) card for this device can be patched to work under Mac OS X ( not sure )
 
-2. for USB ,EC ,plugin=1 and Hpet 
-use ssdtime
+2. for USB ,EC ,plugin=1 and HPET 
+use ssdttime in windows using windows boot not opencore
+
+3. for fake auto brightness use ALs0.ssdt
  
 **Credits:** 
 Apple for the beautiful System.\
