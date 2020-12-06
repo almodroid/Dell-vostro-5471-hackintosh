@@ -3,6 +3,18 @@ Hello i'am almodroid I was working with Hackintosh since Mountain Lion with many
 This repo will help you install Mac OS X for Dell vostro 5471 machine with some modifications using opencore to get most benefit from the system.\
 I was using clover until Catalina, when Big sur released i convert to opencore I will attache my EFI partition with continue updates (I hope😅)  
 
+CPU	Intel® i5 8250U (KBL-R)
+iGPU	Intel® UHD Graphics 620
+dGPU	AMD Radeon 530 (disabled on macOs)
+Display	14" FHD 1920x1080
+Audio	Realtek ALC295
+Ram	16Gb ddr4 2400 Mhz
+Lan	Realtek 8168
+Wifi + Bluetooth	Dw1820a (replaced)
+NVMe	WD 500 GB
+SSD	Sandisk Plus 480 GB
+SmBios	MacbookPro 15,4
+BootLoader	OpenCore 0.6.3
 \
 i include the latest Kext until ( 11 / 11 / 2020 )
 
