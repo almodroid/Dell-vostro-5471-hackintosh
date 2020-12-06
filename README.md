@@ -17,6 +17,7 @@ I was using clover until Catalina, when Big sur released i convert to opencore I
 | SSD	| Sandisk Plus 480 GB |
 | SmBios |	MacbookPro 15,4 |
 | BootLoader	| OpenCore 0.6.3 |
+|------------------------------|
 \
 i include the latest Kext until ( 11 / 11 / 2020 )
 
