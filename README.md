@@ -3,7 +3,7 @@ Hello i'am almodroid I was working with Hackintosh since Mountain Lion with many
 This repo will help you install Mac OS X for Dell vostro 5471 machine with some modifications using opencore to get most benefit from the system.\
 I was using clover until Catalina, when Big sur released i convert to opencore I will attache my EFI partition with continue updates (I hope😅)
 
-## info table:
+## Specs:
 
 | Component | info |
 |-----------|-------|
