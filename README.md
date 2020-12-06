@@ -48,9 +48,11 @@ from aliexpress for 7$.
 I found somewhere that the original intel (wifi/bluetooth) card for this device can be patched to work under Mac OS X ( not sure )
 
 2. for USB ,EC ,plugin=1 and HPET 
-use ssdttime in windows using windows boot not opencore
+you can create one for yourself using ssdttime in windows using windows boot not opencore or just use mine
 
-3. for fake auto brightness use ALs0.ssdt
+3. for fake auto brightness use ALS0.ssdt
+
+4. for Keyboard remaping use SSDT-RMCF-PS2Map-dell.aml
  
 **Credits:** 
 Apple for the beautiful System.\
